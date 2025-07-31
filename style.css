@@ -17,6 +17,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    //add some comment here
 }
 .container {
     background: #fff;
@@ -25,6 +26,7 @@ body {
     padding: 2.5rem 2rem 2rem 2rem;
     max-width: 380px;
     text-align: center;
+    //add more comment here
 }
 .logo {
     width: 48px;
